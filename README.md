@@ -1,1 +1,2 @@
-# Block-chain-app
+# Blockchain-App
+ Sample crypto transaction application
